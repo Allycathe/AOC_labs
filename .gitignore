@@ -1,3 +1,12 @@
+# Vivado folders
+.Xil/
+lab_1.cache/
+lab_1.hw/
+lab_1.ip_user_files/
+vivado.jou
+vivado.log
+
+
 # Vivado generated folders
 *.hw/
 *.cache/
