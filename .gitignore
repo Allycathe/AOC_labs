@@ -5,43 +5,4 @@ lab_1.hw/
 lab_1.ip_user_files/
 vivado.jou
 vivado.log
-
-
-# Vivado generated folders
-*.hw/
-*.cache/
-*.ip_user_files/
-*.sim/
-*.runs/
-*.sdk/
-*.webtalk/
-*.Xil/
-*.jou
-*.log
-
-# Vivado project files
-*.xpr
-*.str
-*.html
-*.xml
-*.tmp
-
-# Checkpoints
-*.dcp
-
-# Timing reports
-*.rpt
-
-# Simulation outputs
-*.wdb
-*.vcd
-*.saif
-
-# Local configs
-*.jou
-*.db
-*.pb
-
-# OS files
-.DS_Store
-Thumbs.db
+.zip
