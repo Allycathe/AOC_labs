@@ -1,8 +1,25 @@
 # Vivado folders
+## Lab 1
 .Xil/
 lab_1.cache/
 lab_1.hw/
 lab_1.ip_user_files/
-vivado.jou
-vivado.log
-.zip
+lab_1.zip
+## Lab 2
+.Xil/
+lab_2.cache/
+lab_2.hw/
+lab_2.ip_user_files/
+lab_2.zip
+## Lab 3
+.Xil/
+lab_3.cache/
+lab_3.hw/
+lab_3.ip_user_files/
+lab_3.zip
+## Lab 4
+.Xil/
+lab_4.cache/
+lab_4.hw/
+lab_4.ip_user_files/
+lab_4.zip
